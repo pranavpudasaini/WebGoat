@@ -1,4 +1,4 @@
-# Evaluating CodeQL WebGoat 8: 
+# Evaluating CodeQL with WebGoat 8: 
 
 ## Evaluating CodeQL
 ![image](https://github.com/pranavpudasaini/WebGoat/assets/23631617/3e35b683-494d-4882-9eff-fd6a5c2ba82b)
